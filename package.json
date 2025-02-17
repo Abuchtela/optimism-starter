@@ -19,7 +19,7 @@
     "@eth-optimism/atst": "^0.0.0-20230306200511",
     "@eth-optimism/contracts-bedrock": "^0.16.0",
     "@eth-optimism/contracts-periphery": "^1.0.7",
-    "@eth-optimism/sdk": "3.0.0",
+    "@eth-optimism/sdk": "3.1.0",
     "@openzeppelin/contracts": "4.7.3",
     "@openzeppelin/contracts-upgradeable": "4.7.3",
     "@rainbow-me/rainbowkit": "^1.0.7",
@@ -30,7 +30,7 @@
     "react-dom": "^18.2.0",
     "util": "^0.12.4",
     "viem": "^1.4.2",
-    "wagmi": "^2.12.23"
+    "wagmi": "^2.14.11"
   },
   "devDependencies": {
     "@types/react": "^18.0.9",
